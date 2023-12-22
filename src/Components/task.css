@@ -1,0 +1,14 @@
+.tskt {
+    color:rgb(140, 0, 255);
+}
+.del {
+    color: rgb(3, 8, 255);
+    background-color: rgba(255, 251, 0, 0.699);
+    border: 1px solid #2f8103;
+    border-radius: 90px;
+    box-shadow: 0 0 10px rgb(253, 253, 253);
+}
+.ali {
+    grid-column: auto;
+
+}
